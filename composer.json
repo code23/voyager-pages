@@ -1,5 +1,5 @@
 {
-    "name": "pvtl/voyager-pages",
+    "name": "code23/voyager-pages",
     "description": "Ahoy! - A package to implement pages into Voyager",
     "keywords": [
         "laravel",
@@ -11,16 +11,16 @@
     "type": "library",
     "authors": [
         {
-            "name": "Pivotal Agency",
-            "homepage": "http://pivotalagency.com.au",
-            "email": "tech@pivotalagency.com.au"
+            "name": "Barna Nagy (Code23)",
+            "homepage": "https://www.code23.com",
+            "email": "support@code23.com"
         }
     ],
     "require": {
-        "tcg/voyager": "^1.1.8"
+        "tcg/voyager": "^1.6"
     },
     "require-dev": {
-        "phpunit/phpunit": "^8.5"
+        "phpunit/phpunit": "*"
     },
     "autoload": {
         "classmap": [],
